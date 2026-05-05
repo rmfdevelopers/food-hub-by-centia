@@ -15,8 +15,8 @@ const body = DM_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Food Hub by Centia | Organic Nigerian Foodstuff",
-  description: "Onitsha's premier source for organic Nigerian foodstuff, specializing in processed proteins and seafood.",
+  title: "Food Hub by Centia | Nature’s Pantry, Processed with Precision",
+  description: "Premium delivery service bringing the finest organic snails and foodstuff from Onitsha to your kitchen.",
 };
 
 export default function RootLayout({
